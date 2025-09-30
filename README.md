@@ -137,7 +137,7 @@ Previous Experience:
 
 <div align="center">
 
-**💼 Open to freelance projects and full-time opportunities**
+** Open to freelance projects and full-time opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhwen-rmili)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhwen.rmili.mob@gmail.com)
@@ -154,6 +154,6 @@ Previous Experience:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Radhwen1999&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting! Happy coding! 🚀**
+**Thanks for visiting!**
 
 </div>
