@@ -120,7 +120,7 @@ Previous Experience:
 ```
 
 
-## 💡 What I'm Currently Working On
+##  What I'm Currently Working On
 
 -  Building scalable Flutter applications with Clean Architecture
 -  Exploring advanced Flutter animations and custom UI components
@@ -130,7 +130,7 @@ Previous Experience:
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
