@@ -6,13 +6,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhwen.rmili.mob@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Radhwen1999)
 
-### 🚀 Flutter Software Engineer | 📱 Mobile App Developer | 🏗️ Clean Architecture Enthusiast
+###  Flutter Software Engineer |  Mobile App Developer |  Clean Architecture Enthusiast
 
 </div>
 
 ---
 
-## 💼 About Me
+##  About Me
 
 ```dart
 class Developer {
@@ -35,11 +35,10 @@ class Developer {
 
 🎯 **Passionate about creating beautiful, performant mobile applications**  
 💡 **Specializing in real-time applications and complex UI/UX implementations**  
-🌍 **Open to opportunities across the EU**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
