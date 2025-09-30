@@ -67,80 +67,24 @@ class Developer {
 
 ---
 
-## 🎨 Featured Projects
+##  Featured Projects
 
-### 🍕 [Cool Mobile Pizza Animation](https://github.com/Radhwen1999/cool_mobile_pizza_animation)
+###  [Cool Mobile Pizza Animation](https://github.com/Radhwen1999/cool_mobile_pizza_animation)
 > **Interactive Pizza Ordering UI with Stunning Animations**
 
 A showcase of advanced Flutter animations featuring a creative pizza ordering interface with smooth transitions, custom animations, and delightful micro-interactions.
 
-**Tech Stack:** `Flutter` `Dart` `Custom Animations` `UI/UX`
 
-**Highlights:**
-- 🎭 Complex custom animations and transitions
-- 🎨 Beautiful Material Design 3 implementation
-- ⚡ Smooth 60fps performance
-- 📱 Responsive design for all screen sizes
-
-**Key Features:**
-```dart
-✨ Interactive pizza customization
-🌀 Fluid page transitions
-🎯 Gesture-based interactions
-💫 Particle effects and animations
-```
-
----
-
-### 🌱 [Green Bite](https://github.com/Radhwen1999/green_bite)
+###  [Green Bite](https://github.com/Radhwen1999/green_bite)
 > **Sustainable Food Delivery Platform**
 
 A comprehensive food delivery application focused on eco-friendly practices, featuring real-time order tracking, restaurant management, and sustainable delivery options.
 
-**Tech Stack:** `Flutter` `Firebase` `Google Maps` `Real-time Database`
 
-**Highlights:**
-- 🗺️ Real-time location tracking with Google Maps SDK
-- 💬 In-app messaging system
-- 🔔 Push notifications for order updates
-- 🏗️ Clean Architecture implementation
-- 🔐 Secure authentication and payment integration
-
-**Key Features:**
-```dart
-🍃 Eco-friendly delivery options
-📍 Live order tracking
-💳 Multiple payment methods
-⭐ Rating and review system
-📊 Order history and analytics
-```
-
----
-
-### 🚗 [Mythic Benz](https://github.com/Radhwen1999/mythic-benz)
+###  [Mythic Benz](https://github.com/Radhwen1999/mythic-benz)
 > **Premium Car Showcase & Management Platform**
 
 An elegant car showcase application featuring stunning UI, detailed vehicle specifications, and advanced filtering capabilities for luxury vehicle enthusiasts.
-
-**Tech Stack:** `Flutter` `Firebase` `Custom Animations` `Material Design`
-
-**Highlights:**
-- 🎨 Premium UI/UX design
-- 📸 High-quality image galleries
-- 🔍 Advanced search and filtering
-- 💾 Offline-first architecture
-- 🎭 Smooth animations and transitions
-
-**Key Features:**
-```dart
-🏎️ Detailed vehicle specifications
-🖼️ Interactive image galleries
-🔎 Smart filtering system
-❤️ Favorites and collections
-📱 Cross-platform compatibility
-```
-
----
 
 ## 📊 GitHub Stats
 
@@ -156,7 +100,7 @@ An elegant car showcase application featuring stunning UI, detailed vehicle spec
 
 ---
 
-## 🏆 Professional Experience
+##  Professional Experience
 
 ```yaml
 Current Role:
@@ -179,27 +123,14 @@ Previous Experience:
     - Configured deployment pipelines for App Store and Play Store
 ```
 
----
-
-## 🎓 Education
-
-**🎓 Master's Degree in Computer Engineering**  
-ESPRIT - Private Higher School of Engineering and Technology  
-*2021 - 2024 | Ariana, Tunisia*
-
-**📚 Engineering Preparatory Studies**  
-IPEIEM - Institute El Manar  
-*2018 - 2021 | Tunis, Tunisia*
-
----
 
 ## 💡 What I'm Currently Working On
 
-- 🔨 Building scalable Flutter applications with Clean Architecture
-- 📱 Exploring advanced Flutter animations and custom UI components
-- 🚀 Contributing to open-source Flutter packages
-- 📖 Sharing Flutter tips and UI challenges on LinkedIn
-- 🎨 Creating reusable component libraries
+-  Building scalable Flutter applications with Clean Architecture
+-  Exploring advanced Flutter animations and custom UI components
+-  Contributing to open-source Flutter packages
+-  Sharing Flutter tips and UI challenges on LinkedIn
+-  Creating reusable component libraries
 
 ---
 
