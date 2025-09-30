@@ -147,7 +147,7 @@ Previous Experience:
 
 <div align="center">
   
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+###  "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Radhwen1999&color=blueviolet&style=for-the-badge)
 
