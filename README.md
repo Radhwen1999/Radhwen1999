@@ -91,8 +91,6 @@ An elegant car showcase application featuring stunning UI, detailed vehicle spec
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhwen1999&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhwen1999&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Radhwen1999&theme=radical&hide_border=true)
 
 </div>
